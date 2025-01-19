@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 2999,
+      "image": "./assets/product1.webp",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 15999,
+      "image": "./assets/product2.webp",
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 4999,
+      "image": "./assets/product3.webp",
+      "category": "Fashion"
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "price": 1999,
+      "image": "./assets/product4.webp",
+      "category": "Accessories"
+    },
+    {
+      "id": 5,
+      "name": "Gaming Keyboard",
+      "price": 3499,
+      "image": "./assets/product5.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 6,
+      "name": "Smartwatch",
+      "price": 5999,
+      "image": "./assets/product6.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 7,
+      "name": "Winter Jacket",
+      "price": 7999,
+      "image": "./assets/product7.jpg",
+      "category": "Fashion"
+    },
+    {
+      "id": 8,
+      "name": "Sunglasses",
+      "price": 1299,
+      "image": "./assets/product8.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 9,
+      "name": "Bluetooth Speaker",
+      "price": 2499,
+      "image": "./assets/product9.webp",
+      "category": "Electronics"
+    },
+    {
+      "id": 10,
+      "name": "Sports Watch",
+      "price": 3999,
+      "image": "./assets/product10.webp",
+      "category": "Accessories"
+    },
+    {
+      "id": 11,
+      "name": "Leather Wallet",
+      "price": 999,
+      "image": "./assets/product11.webp",
+      "category": "Accessories"
+    },
+    {
+      "id": 12,
+      "name": "Formal Shoes",
+      "price": 6999,
+      "image": "./assets/product12.webp",
+      "category": "Fashion"
+    },
+    {
+      "id": 13,
+      "name": "Portable Charger",
+      "price": 1499,
+      "image": "./assets/product13.webp",
+      "category": "Electronics"
+    },
+    {
+      "id": 14,
+      "name": "Denim Jeans",
+      "price": 3499,
+      "image": "./assets/product14.avif",
+      "category": "Fashion"
+    },
+    {
+      "id": 15,
+      "name": "Cotton T-Shirt",
+      "price": 799,
+      "image": "./assets/product15.jpg",
+      "category": "Fashion"
+    },
+    {
+      "id": 16,
+      "name": "Digital Camera",
+      "price": 29999,
+      "image": "./assets/product16.webp",
+      "category": "Electronics"
+    },
+    {
+      "id": 17,
+      "name": "Travel Pillow",
+      "price": 999,
+      "image": "./assets/product17.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 18,
+      "name": "Coffee Mug",
+      "price": 499,
+      "image": "./assets/product18.jpg",
+      "category": "Home & Kitchen"
+    },
+    {
+      "id": 19,
+      "name": "Electric Kettle",
+      "price": 1999,
+      "image": "./assets/product19.jpg",
+      "category": "Home & Kitchen"
+    },
+    {
+      "id": 20,
+      "name": "Desk Lamp",
+      "price": 1299,
+      "image": "./assets/product20.webp",
+      "category": "Home & Kitchen"
+    }
+  ]
+  
